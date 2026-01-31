@@ -1,0 +1,12 @@
+# Hugo default output
+public/
+resources/_gen
+.hugo_build.lock
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor specific
+.vscode/
+*.swp
