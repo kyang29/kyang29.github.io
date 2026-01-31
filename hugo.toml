@@ -1,7 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Kong.IO'
-theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
