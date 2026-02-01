@@ -6,8 +6,6 @@ summary: "This is my first post on my site"
 tags: ["personal"]
 ---
 
-## Introduction
-
 Hi, I'm **Kong**! I'm around 30 years old, snowed in on a random Saturday, and I decided to start a blog.
 
 ### About Me
